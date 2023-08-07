@@ -1,4 +1,4 @@
-![MasterHead](https://im.ezgif.com/tmp/ezgif-1-67fc69a818.gif)
+![MasterHead](https://i.imgur.com/tUjc72d.jpg)
 <h1 align="center">Hi 👋, I'm Abhiraj Chaudhuri</h1>
 <h3 align="center">An aspiring Full-Stack Developer</h3><br>
 <img align="right" alt="HTML" width="160" src="https://i.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.webp">
